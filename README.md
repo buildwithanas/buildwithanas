@@ -26,11 +26,13 @@ I enjoy solving real-world problems, writing clean code, and turning ideas into 
 - CSS3
 - JavaScript
 - Python
+- MYSQL
 
 ### Tools
 - Git
 - GitHub
 - VS Code
+- LINUX
 
 ---
 
