@@ -1,4 +1,4 @@
-# Hi there, I'm Anas Amoo 👋
+# Hi there, I'm Anas Amoo 
 
 ### 💻 Software Engineer | Web Developer
 
