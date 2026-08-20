@@ -27,7 +27,7 @@ I believe the best way to learn software engineering is to **build, break, debug
 ### Languages & Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,mysql" />
 </p>
 
 ### Tools & Environment
@@ -84,7 +84,6 @@ I'm learning to:
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buildwithanas&show_icons=true&theme=transparent&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithanas&theme=transparent&hide_border=true" />
 </p>
 
