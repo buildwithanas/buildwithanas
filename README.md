@@ -94,7 +94,7 @@ I'm learning to:
 
 * 💼 LinkedIn: [Anas Amoo](https://www.linkedin.com/in/anasadelabuamoo)
 * 🐙 GitHub: [@buildwithanas](https://github.com/buildwithanas)
-* 𝕏 X: [@amooanas](https://x.com/amooanas)
+*  𝕏 : [@amooanas](https://x.com/amooanas)
 * 🎵 TikTok: [@anas.devs](https://www.tiktok.com/@anas.devs)
 * 📸 Instagram: [@anas_devs](https://www.instagram.com/anas_devs)
 * 📧 Email: **[anasamoo0704@gmail.com](mailto:anasamoo0704@gmail.com)**
