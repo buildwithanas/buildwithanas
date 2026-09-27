@@ -33,7 +33,7 @@ I believe the best way to learn software engineering is to **build, break, debug
 ### Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" />
 </p>
 
 ---
