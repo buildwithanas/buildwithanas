@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anas Amoo
+# Hi, I'm Anas Amoo
 
 ### Software Engineer in Progress | Web Developer | Builder
 
@@ -10,24 +10,24 @@ I believe the best way to learn software engineering is to **build, break, debug
 
 ---
 
-## 🚀 What I'm Doing
+##  What I'm Doing
 
-* 💻 Building full-stack web applications
-* 🧠 Strengthening my software engineering fundamentals
-* ⚙️ Learning backend development and databases
-* 🏗️ Building projects around real-world problems
-* 📚 Improving my JavaScript and C programming skills
-* 🔍 Learning how to write clean, maintainable, and scalable code
-* 🌱 Building consistently and sharing my progress
+*  Building full-stack web applications
+*  Strengthening my software engineering fundamentals
+*  Learning backend development and databases
+*  Building projects around real-world problems
+*  Improving my JavaScript and C programming skills
+*  Learning how to write clean, maintainable, and scalable code
+*  Building consistently and sharing my progress
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,mysql,ts" />
 </p>
 
 ### Tools & Environment
@@ -38,22 +38,22 @@ I believe the best way to learn software engineering is to **build, break, debug
 
 ---
 
-## 📌 What I'm Building
+## What I'm Building
 
 I'm particularly interested in software that improves everyday processes and solves problems people actually experience.
 
 Some areas I'm exploring:
 
-* 🏫 Education & School Management
-* 🏥 Healthcare Software
-* 🌐 Full-Stack Web Applications
-* ⚙️ Backend Systems & APIs
-* 📊 Data & Databases
-* 🧩 Problem Solving & Software Engineering
+*  Education & School Management
+*  Healthcare Software
+*  Full-Stack Web Applications
+*  Backend Systems & APIs
+*  Data & Databases
+*  Problem Solving & Software Engineering
 
 ---
 
-## 🧠 Current Learning Focus
+##  Current Learning Focus
 
 I'm currently focused on becoming a stronger software engineer by going beyond simply writing code.
 
@@ -70,7 +70,7 @@ I'm learning to:
 
 ---
 
-## 🎯 My Goals
+##  My Goals
 
 * Become a highly skilled software engineer
 * Build products that solve meaningful problems
@@ -81,7 +81,7 @@ I'm learning to:
 
 ---
 
-## 📊 GitHub
+##  GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithanas&theme=transparent&hide_border=true" />
@@ -89,7 +89,7 @@ I'm learning to:
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 * 💼 LinkedIn: [Anas Amoo](https://www.linkedin.com/in/anasadelabuamoo)
 * 🐙 GitHub: [@buildwithanas](https://github.com/buildwithanas)
@@ -100,6 +100,6 @@ I'm learning to:
 
 ---
 
-### 💡 Building in public. Learning every day. Improving one commit at a time.
+###  Building in public. Learning every day. Improving one commit at a time.
 
 > **"Build things. Solve problems. Keep learning."**
