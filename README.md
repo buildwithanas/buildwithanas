@@ -1,105 +1,18 @@
-# Hi, I'm Anas Amoo
+# 💫 About Me:
+# Hi, I'm Anas Amoo<br><br>### Software Engineer in Progress | Web Developer | Builder<br><br>I’m a software developer focused on building **practical software that solves real-world problems**.<br><br>Currently, I'm strengthening my foundations in software engineering while building full-stack web applications and learning how to design, develop, debug, and maintain reliable software.<br><br>I believe the best way to learn software engineering is to **build, break, debug, improve, and repeat.**<br><br>---<br><br>##  What I'm Doing<br><br>*  Building full-stack web applications<br>*  Strengthening my software engineering fundamentals<br>*  Learning backend development and databases<br>*  Building projects around real-world problems<br>*  Improving my JavaScript and C programming skills<br>*  Learning how to write clean, maintainable, and scalable code<br>*  Building consistently and sharing my progress<br><br>---<br><br>## Tech Stack<br><br>### Languages & Web Technologies<br><br><p><br>  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,mysql,ts" /><br></p><br><br>### Tools & Environment<br><br><p><br>  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" /><br></p><br><br>---<br><br>## What I'm Building<br><br>I'm particularly interested in software that improves everyday processes and solves problems people actually experience.<br><br>Some areas I'm exploring:<br><br>*  Education & School Management<br>*  Healthcare Software<br>*  Full-Stack Web Applications<br>*  Backend Systems & APIs<br>*  Data & Databases<br>*  Problem Solving & Software Engineering<br><br>---<br><br>##  Current Learning Focus<br><br>I'm currently focused on becoming a stronger software engineer by going beyond simply writing code.<br><br>I'm learning to:<br><br>* Understand how software works under the hood<br>* Design better solutions before writing code<br>* Debug problems systematically<br>* Work with databases and backend systems<br>* Build applications that are maintainable<br>* Use Git and GitHub effectively<br>* Understand algorithms and data structures<br>* Turn real-world problems into software solutions<br><br>---<br><br>##  My Goals<br><br>* Become a highly skilled software engineer<br>* Build products that solve meaningful problems<br>* Develop strong computer science fundamentals<br>* Contribute to open-source projects<br>* Build and maintain production-quality applications<br>* Continuously learn and improve<br><br>---<br><br>##  GitHub<br><br><p align="center"><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithanas&theme=transparent&hide_border=true" /><br></p><br><br>---<br><br>##  Let's Connect<br><br>* 💼 LinkedIn: [Anas Amoo](https://www.linkedin.com/in/anasadelabuamoo)<br>* 🐙 GitHub: [@buildwithanas](https://github.com/buildwithanas)<br>*  𝕏 : [@amooanas](https://x.com/amooanas)<br>* 🎵 TikTok: [@anas.devs](https://www.tiktok.com/@anas.devs)<br>* 📸 Instagram: [@anas_devs](https://www.instagram.com/anas_devs)<br>* 📧 Email: **[anasamoo0704@gmail.com](mailto:anasamoo0704@gmail.com)**<br><br>---<br><br>###  Building in public. Learning every day. Improving one commit at a time.<br><br>> **"Build things. Solve problems. Keep learning."**<br>
 
-### Software Engineer in Progress | Web Developer | Builder
 
-I’m a software developer focused on building **practical software that solves real-world problems**.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/buildwithanas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anas_devs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anas-amoo-0173523a8?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/anasamoo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@anas.devs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amooanas) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AnasAmoo1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anasamoo0704@gmail.com) 
 
-Currently, I'm strengthening my foundations in software engineering while building full-stack web applications and learning how to design, develop, debug, and maintain reliable software.
-
-I believe the best way to learn software engineering is to **build, break, debug, improve, and repeat.**
-
----
-
-##  What I'm Doing
-
-*  Building full-stack web applications
-*  Strengthening my software engineering fundamentals
-*  Learning backend development and databases
-*  Building projects around real-world problems
-*  Improving my JavaScript and C programming skills
-*  Learning how to write clean, maintainable, and scalable code
-*  Building consistently and sharing my progress
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=buildwithanas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=buildwithanas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=buildwithanas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=buildwithanas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Tech Stack
-
-### Languages & Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,mysql,ts" />
-</p>
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" />
-</p>
-
----
-
-## What I'm Building
-
-I'm particularly interested in software that improves everyday processes and solves problems people actually experience.
-
-Some areas I'm exploring:
-
-*  Education & School Management
-*  Healthcare Software
-*  Full-Stack Web Applications
-*  Backend Systems & APIs
-*  Data & Databases
-*  Problem Solving & Software Engineering
-
----
-
-##  Current Learning Focus
-
-I'm currently focused on becoming a stronger software engineer by going beyond simply writing code.
-
-I'm learning to:
-
-* Understand how software works under the hood
-* Design better solutions before writing code
-* Debug problems systematically
-* Work with databases and backend systems
-* Build applications that are maintainable
-* Use Git and GitHub effectively
-* Understand algorithms and data structures
-* Turn real-world problems into software solutions
-
----
-
-##  My Goals
-
-* Become a highly skilled software engineer
-* Build products that solve meaningful problems
-* Develop strong computer science fundamentals
-* Contribute to open-source projects
-* Build and maintain production-quality applications
-* Continuously learn and improve
-
----
-
-##  GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithanas&theme=transparent&hide_border=true" />
-</p>
-
----
-
-##  Let's Connect
-
-* 💼 LinkedIn: [Anas Amoo](https://www.linkedin.com/in/anasadelabuamoo)
-* 🐙 GitHub: [@buildwithanas](https://github.com/buildwithanas)
-*  𝕏 : [@amooanas](https://x.com/amooanas)
-* 🎵 TikTok: [@anas.devs](https://www.tiktok.com/@anas.devs)
-* 📸 Instagram: [@anas_devs](https://www.instagram.com/anas_devs)
-* 📧 Email: **[anasamoo0704@gmail.com](mailto:anasamoo0704@gmail.com)**
-
----
-
-###  Building in public. Learning every day. Improving one commit at a time.
-
-> **"Build things. Solve problems. Keep learning."**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
